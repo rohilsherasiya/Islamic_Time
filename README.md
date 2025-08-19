@@ -10,6 +10,8 @@
     <link
         href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Noto+Naskh+Arabic:wght@500;700&display=swap"
         rel="stylesheet">
+        <link rel="icon" type="icon" href="https://muslimandquran.com/build/assets/favicon_new-79e39f9e.ico">
+
     <style>
         :root {
             --bg: #0b0f0c;
