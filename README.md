@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en" dir="ltr">
 
 <head>
@@ -781,11 +780,11 @@
             </div>
             <div>
                 <h4>Contact</h4>
-                <p class="small">info@alnoor.org<br>+91 79846 57804</p>
+                <p class="small">Rohil Sherasiya<br>+91 79846 57804</p>
             </div>
             <div>
                 <h4>Follow</h4>
-                <p class="small">YouTube • Instagram • X</p>
+                <p class="small">YouTube • Instagram • </p>
             </div>
         </div>
         <div class="container" style="padding:10px 0; border-top:1px solid #1b251e">
@@ -928,6 +927,7 @@
             $('newsMsg').textContent = e ? 'Subscribed (demo).' : 'Enter a valid email.';
         });
     </script>
+    
 </body>
 
 </html>
